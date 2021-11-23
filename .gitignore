@@ -1,0 +1,7 @@
+node_modules
+build
+caches
+database
+besu.networks
+besu.ports
+DATABASE_METADATA.json
