@@ -5,3 +5,8 @@ database
 besu.networks
 besu.ports
 DATABASE_METADATA.json
+Private-IBFT-Network/Node-1/Tessera/target/
+Private-IBFT-Network/Node-2/Tessera/target/
+Private-IBFT-Network/Node-3/Tessera/target/
+Private-IBFT-Network/Node-4/Tessera/target/
+
